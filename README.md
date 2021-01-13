@@ -8,8 +8,8 @@ A web-based app that allows users to upload, share, comment and download picture
         Username: <MYSQL username>
         Password: <MYSQL password>
         Databasename: tiles_db
-4) Then change your base URL, "http://<web server ip>:<web server port number>/tiles/", then save the file
+4) Then change your base URL, "http://web server ip:web server port number/tiles/", then save the file
 5) Launch the webserver with MYSQL services
-6) Go to the web browser, in the URL bar, type: http://<web server ip>:<web server port number>/tiles/
+6) Go to the web browser, in the URL bar, type: http://web server ip:web server port number/tiles/
   
   
